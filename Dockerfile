@@ -1,5 +1,5 @@
 # use a node base image
-FROM node:7-onbuild
+FROM node:6.17.0-stretch
 
 # set maintainer
 LABEL maintainer "crudsinfotechng@gmail.com"
